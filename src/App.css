@@ -1,0 +1,9 @@
+.inputHov:hover{
+    border-bottom: 5px solid rgb(107 33 168);
+    transition:   border-bottom 0.3s ease;
+}
+.hov:hover{
+    box-shadow: 0px 1px 17px 2px rgba(255, 255, 255, 0.7);
+    transition: box-shadow 0.1s ease;
+    
+}
